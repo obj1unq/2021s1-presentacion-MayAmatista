@@ -2,20 +2,8 @@
 
 ## Estudiante: Mayra Mosqueira
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
-Consiste en hacer 2 simples tareas:
-- [ ] **Editar este archivo completando tu nombre**. Para eso basta con 
-  - tocar el lapicito de arriba a la derecha de este archivo ![Selection_201](https://user-images.githubusercontent.com/4098184/89341982-8096af80-d678-11ea-9248-e70dab4b73f7.png)
-  - editar el archivo
-  - agregar un nombre y descripción al _commit_ (cambio) que vamos a subir. Este paso es opcional pero recomendable.
-  - darle al botón de **Commit** para subir los cambios al repositorio.
-
-
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
-Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
-
-- [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
-]
-- [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
-
+Buenas, soy Mayra pero me pueden decir May. Es el segundo cuatri que estoy colaborando en la materia.
+Me gustan muchas cosas, como bailar, hacer ceramica, el hula hula, y bailar mientras hago ceramica con el hula hula también :eyes: jajaja. También me gusta meditar y creo que si tuviera que definirme en una palabra que contenga todo lo anterior seria yogi, ya que creo que el yoga como folosofia me acompaña en todo lo que hago.
+Actualmente estoy trabajando en el area de educación en Mumuki y cursando objetos 2.
+Amo esta materia, al equipo docente que es hermoso, y todo lo que está atrás de objetos 1.
+Sin mucho más para decir, cualquier consulta no duden en preguntar :blush:
